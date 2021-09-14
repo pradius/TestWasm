@@ -1,0 +1,2 @@
+# TestWasm
+ StaticWebApp Test

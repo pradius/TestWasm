@@ -1,0 +1,18 @@
+{
+  "Version": 1,
+  "Hash": "E5+I0BFzZ38j0YzkkoRgzo/FIQXmn85vtMWY2Gms8PE=",
+  "Source": "TestWasm.SharedLibrary",
+  "BasePath": "_content/TestWasm.SharedLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "RelatedManifests": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestWasm.SharedLibrary\\wwwroot",
+      "ContentRoot": "C:\\Users\\josec\\source\\repos\\TestWasm\\TestWasm\\TestWasm.SharedLibrary\\wwwroot\\",
+      "BasePath": "_content/TestWasm.SharedLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

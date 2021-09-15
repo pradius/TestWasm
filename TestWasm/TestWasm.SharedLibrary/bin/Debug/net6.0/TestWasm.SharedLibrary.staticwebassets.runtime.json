@@ -1,0 +1,16 @@
+{
+  "ContentRoots": [
+    "C:\\Users\\josec\\source\\repos\\TestWasm\\TestWasm\\TestWasm.SharedLibrary\\wwwroot\\"
+  ],
+  "Root": {
+    "Children": null,
+    "Asset": null,
+    "Patterns": [
+      {
+        "ContentRootIndex": 0,
+        "Pattern": "**",
+        "Depth": 0
+      }
+    ]
+  }
+}
